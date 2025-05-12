@@ -2,6 +2,8 @@
 
 NextJS Based Blog Platform
 
+**NextJS 기반의 이 테마를 Jekyll용 테마로 이식했습니다.** 앞으로 이 [**레포지토리**](https://github.com/sweetcase-production/lollineon) 에서 업데이트됩니다.
+
 ## Installation
 ```
 $ npm i
